@@ -4,7 +4,7 @@ collection: teaching
 type: "Postgraduate course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "Maulana Azad National Institute of Technology (MANIT), Bhopal, Department of CSE"
-date: September, 2021 - May, 2023
+date: "September, 2021 - May, 2023"
 location: "MP, India"
 ---
 
