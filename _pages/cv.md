@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
-[Download CV PDF](https://example.com/link_to_your_cv.pdf)
+# [Download CV PDF](https://drive.google.com/file/d/18cqY-FlNs8BpIp7f_0YYu6HESflTIY0c/view?usp=sharing)
 
 
  
