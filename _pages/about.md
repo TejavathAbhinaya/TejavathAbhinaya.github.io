@@ -36,7 +36,7 @@ To further bolster my expertise, I've successfully completed key courses in:
 - Statistical Methods
 
 ## Technical Skills
-- Item 1 - Item 2 - Item 3
+&bull; Item 1 &bull; Item 2 &bull; Item 3
 &bull; Item 1 &bull; Item 2 &bull; Item 3
 
 
