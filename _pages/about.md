@@ -13,12 +13,17 @@ I'm Tejavath Abhinaya, a driven and dedicated Artificial Intelligence enthusiast
 
 ## Education
 
-My academic voyage began at the esteemed Maulana Azad National Institute of Technology in Bhopal, where I pursued a Master of Technology in Artificial Intelligence, graduating with an impressive 81.2% in June 2023. Prior to that, I honed my engineering skills at the renowned National Institute of Technology in Calicut, Kerala, earning a Bachelor's degree in Electrical and Electronics Engineering with distinction in June 2021. My academic excellence dates back to my higher secondary education at Narayana Junior College, Hyderabad, where I secured an exceptional 96.8% in 12th grade.
+- Postgraduate Studies: I earned a Master of Technology in Artificial Intelligence with a graduation score of 81.2% from Maulana Azad National Institute of Technology, Bhopal in June 2023.
+
+- Undergraduate Studies: Prior to that, I completed my Bachelor's degree in Electrical and Electronics Engineering with distinction at the National Institute of Technology, Calicut, Kerala, in June 2021.
+
+- Higher Secondary: In my earlier academic years, I excelled during my higher secondary education at Narayana Junior College, Hyderabad, securing 96.8% in the 12th grade.
 
 ## Professional Experience
 
-My journey into the world of AI research commenced as a Research Assistant at Maulana Azad National Institute of Technology, Bhopal, where I played a pivotal role from June 2022 to May 2023. During this tenure, I spearheaded the design and development of cancer prediction models using deep learning. My work revolved around Histopathology images of the endometrium, employing state-of-the-art transformer architecture to achieve groundbreaking results.
-In addition to my research endeavors, I had the privilege of serving as a Teaching Assistant at Maulana Azad National Institute of Technology (MANIT), Bhopal, from 2021 to 2023.
+- Research Experience: My journey into the realm of AI research began as a Research Assistant at Maulana Azad National Institute of Technology, Bhopal. I held this role from June 2022 to May 2023, during which I led the development of cancer prediction models using deep learning. My focus was on Histopathology images of the endometrium, and I utilized cutting-edge transformer architecture to achieve groundbreaking results.
+
+- Teaching Experience: Additionally, I had the privilege of serving as a Teaching Assistant at Maulana Azad National Institute of Technology (MANIT), Bhopal, from September 2021 to May 2023.
 
 ## Key Courses
 
