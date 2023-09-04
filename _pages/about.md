@@ -24,11 +24,11 @@ In addition to my research endeavors, I had the privilege of serving as a Teachi
 
 To further bolster my expertise, I've successfully completed key courses in:
 
--Machine Learning
--Deep Learning
--Computer Vision
--Natural Language Processing
--Statistical Methods
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- Natural Language Processing
+- Statistical Methods
 
 ## Technical Skills
 
