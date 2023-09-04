@@ -36,12 +36,10 @@ To further bolster my expertise, I've successfully completed key courses in:
 - Statistical Methods
 
 ## Technical Skills
-&bull; Item 1 &bull; Item 2 &bull; Item 3
-&bull; Item 1 &bull; Item 2 &bull; Item 3
+&bull; Python &bull; Tensorflow  &bull; PowerBI
+&bull; Numpy &bull; Pandas &bull; MS office &bull; Latex
 
 
-- Python - NumPy
-Proficient in Python, I'm well-versed in essential tools such as Tensorflow, Latex, Anaconda, Microsoft Office, Nvidia/Cuda Toolkit, and Power BI. These skills empower me to transform innovative ideas into tangible solutions.
 
 
 
