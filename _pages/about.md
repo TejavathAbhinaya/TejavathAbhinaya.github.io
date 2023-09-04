@@ -24,12 +24,13 @@ In addition to my research endeavors, I had the privilege of serving as a Teachi
 
 To further bolster my expertise, I've successfully completed key courses in:
 
-Machine Learning
-Deep Learning
-Computer Vision
-Statistical Methods
+-Machine Learning
+-Deep Learning
+-Computer Vision
+-Natural Language Processing
+-Statistical Methods
 
-# Technical Skills
+## Technical Skills
 
 Proficient in Python, I'm well-versed in essential tools such as Tensorflow, Latex, Anaconda, Microsoft Office, Nvidia/Cuda Toolkit, and Power BI. These skills empower me to transform innovative ideas into tangible solutions.
 
