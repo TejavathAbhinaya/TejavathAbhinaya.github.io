@@ -23,4 +23,4 @@ Engineering journal, September 2023
 tion -Boosted K-Means Clustering for Color Quantization of Chandrayan 3 Satellite
 Images
 
-- 
+
